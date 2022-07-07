@@ -1,1 +1,2 @@
-www.dylaning.cn
+touch CNAME
+echo 'azmddy.top' > CNAME
